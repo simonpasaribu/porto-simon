@@ -35,7 +35,7 @@ function Navbar() {
       borderBottom: "1px solid rgba(0,212,255,0.1)",
     }}>
       <span style={{ color: "#00d4ff", fontSize: "1.2rem", fontWeight: "bold" }}>
-        &lt;SPP /&gt;
+        Portofolio
       </span>
 
       <div style={{ display: "flex", gap: "2rem" }}>
@@ -74,9 +74,7 @@ function Hero() {
 
         {/* Teks Kiri */}
         <div>
-          <p style={{ color: "#00d4ff", fontSize: "0.85rem", letterSpacing: "3px", marginBottom: "1rem" }}>
-            &gt; HELLO, WORLD
-          </p>
+
 
           <h1 style={{ fontSize: "3.5rem", fontWeight: "800", color: "#fff", lineHeight: 1.1, marginBottom: "1rem" }}>
             I'm <span style={{ color: "#00d4ff" }}>Simon Petrus Pasaribu</span>
