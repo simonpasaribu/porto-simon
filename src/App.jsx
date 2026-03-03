@@ -152,7 +152,7 @@ function About() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// ABOUT ME</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> ABOUT ME</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>Who I Am</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
@@ -235,7 +235,7 @@ function Skills() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// SKILLS</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> SKILLS</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>My Tech Stack</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
@@ -324,7 +324,7 @@ function Portfolio() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// PORTFOLIO</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> PORTFOLIO</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>Featured Projects</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
@@ -468,7 +468,7 @@ function Experience() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// EXPERIENCE</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> EXPERIENCE</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>Work History</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
@@ -525,7 +525,7 @@ function Testimonials() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// TESTIMONIALS</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> TESTIMONIALS</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>What People Say</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
@@ -582,7 +582,7 @@ function Contact() {
 
         {/* Judul */}
         <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}>// CONTACT</p>
+          <p style={{ color: "#00d4ff", fontSize: "0.75rem", letterSpacing: "4px", marginBottom: "0.5rem" }}> CONTACT</p>
           <h2 style={{ fontSize: "2.5rem", fontWeight: "800", color: "#fff" }}>Get In Touch</h2>
           <div style={{ width: "60px", height: "3px", background: "#00d4ff", margin: "1rem auto 0", borderRadius: "2px" }} />
         </div>
